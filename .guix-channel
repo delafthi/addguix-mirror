@@ -1,0 +1,7 @@
+;; This is a Guix channel
+
+(channel
+ (version 0)
+ (url "https://git.sr.ht/~delafthi/addguix"))
+
+;; vim: ft=scheme
